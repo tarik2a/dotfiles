@@ -1,6 +1,6 @@
 [user]
     #email = put email here
-    name = Tarik AIT-ARYANE
+    #name = put email here
 [core]
 	editor = vim
     excludesfile = ~/.gitignore_global
