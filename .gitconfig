@@ -1,0 +1,17 @@
+[user]
+    #email = put email here
+    name = Tarik AIT-ARYANE
+[core]
+	editor = vim
+    excludesfile = ~/.gitignore_global
+    #attributesfile = ~/.gitattributes
+	autocrlf = false
+	filemode = false
+	filemode = false
+	eol = lf
+[credential]
+	helper = 2592000
+[merge]
+	tool = vimdiff
+[branch]
+	autosetupmerge = always
