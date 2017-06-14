@@ -5,10 +5,12 @@ cd "$(dirname "${BASH_SOURCE}")";
 git pull origin master;
 
 function doIt() {
-	rsync --exclude ".git/" --exclude "bootstrap.sh" \
+	rsync --exclude ".git/" --exclude "tmp/" --exclude "bootstrap.sh" \
 		--exclude "readme.md" -avh --no-perms . ~;
 	#source ~/.zshrc;
 }
+
+cp -rf tmp/.vim ../.vim
 
 if [ "$1" == "--force" -o "$1" == "-f" ]; then
 	doIt;
