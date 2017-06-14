@@ -19,9 +19,11 @@ You need to to have these tools installed before to proceed with the dotfiles in
 
 ## Installation
 To install thoses dotfiles into a new system:
+```
 $ cd $HOME
 $ git clone https://github.com/tarik2a/dotfiles.git .dotfiles
 $ ./.dotfiles/bootstrap.sh
+```
 
 ## Notes
 After the syncing you need to edit .gitconfig file with the proper user name and email.
