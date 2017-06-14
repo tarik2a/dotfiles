@@ -1,33 +1,33 @@
-[submodule "bundle/ctrlp.vim"]
-	path = bundle/ctrlp.vim
+[submodule "bundle/.vim/ctrlp.vim"]
+	path = bundle/.vim/ctrlp.vim
 	url = https://github.com/kien/ctrlp.vim
-[submodule "bundle/hardmode"]
-	path = bundle/hardmode
+[submodule "bundle/.vim/hardmode"]
+	path = bundle/.vim/hardmode
 	url = https://github.com/wikitopian/hardmode.git
-[submodule "bundle/mru"]
-	path = bundle/mru
+[submodule "bundle/.vim/mru"]
+	path = bundle/.vim/mru
 	url = https://github.com/yegappan/mru
-[submodule "bundle/syntastic"]
-	path = bundle/syntastic
+[submodule "bundle/.vim/syntastic"]
+	path = bundle/.vim/syntastic
 	url = https://github.com/scrooloose/syntastic
-[submodule "bundle/vdebug"]
-	path = bundle/vdebug
+[submodule "bundle/.vim/vdebug"]
+	path = bundle/.vim/vdebug
 	url = https://github.com/joonty/vdebug
-[submodule "bundle/vim-airline"]
-	path = bundle/vim-airline
+[submodule "bundle/.vim/vim-airline"]
+	path = bundle/.vim/vim-airline
 	url = https://github.com/bling/vim-airline
-[submodule "bundle/vim-fugitive"]
-	path = bundle/vim-fugitive
+[submodule "bundle/.vim/vim-fugitive"]
+	path = bundle/.vim/vim-fugitive
 	url = https://github.com/tpope/vim-fugitive
-[submodule "bundle/vim-polyglot"]
-	path = bundle/vim-polyglot
+[submodule "bundle/.vim/vim-polyglot"]
+	path = bundle/.vim/vim-polyglot
 	url = https://github.com/sheerun/vim-polyglot.git
-[submodule "bundle/vim-repeat"]
-	path = bundle/vim-repeat
+[submodule "bundle/.vim/vim-repeat"]
+	path = bundle/.vim/vim-repeat
 	url = git://github.com/tpope/vim-repeat.git
-[submodule "bundle/vim-sensible"]
-	path = bundle/vim-sensible
+[submodule "bundle/.vim/vim-sensible"]
+	path = bundle/.vim/vim-sensible
 	url = git://github.com/tpope/vim-sensible.git
-[submodule "bundle/vim-surround"]
-	path = bundle/vim-surround
+[submodule "bundle/.vim/vim-surround"]
+	path = bundle/.vim/vim-surround
 	url = git://github.com/tpope/vim-surround.git
