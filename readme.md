@@ -27,4 +27,3 @@ $ ./.dotfiles/bootstrap.sh
 
 ## Notes
 After the syncing you need to edit .gitconfig file with the proper user name and email.
-
